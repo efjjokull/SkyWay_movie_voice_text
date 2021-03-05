@@ -6,4 +6,4 @@ APIキーは抜いているので使う方はご自身でAPIキーを取得し�
 key.js
 ```
 window.__SKYWAY_KEY__ = 'Your key';
-'''
+
